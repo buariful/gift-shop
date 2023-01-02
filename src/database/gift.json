@@ -1,0 +1,68 @@
+[
+  {
+    "id": 101,
+    "img": "https://www.techlandbd.com/image/cache/catalog/Smart%20Watch/N8-Watch/hw8-ultra-smart-watch-01.jpg-200x200.jpg",
+    "name": "Smart watch",
+    "price": 150
+  },
+  {
+    "id": 201,
+    "img": "https://www.loake.com/wp-content/uploads/2019/08/XBELTHENC-TOP-min-200x200.jpg",
+    "name": "X Belt",
+    "price": 20
+  },
+  {
+    "id": 202,
+    "img": "https://static.golfonline.co.uk/media/img/1361569_408.200x200.jpg",
+    "name": "COOL Belt",
+    "price": 20
+  },
+  {
+    "id": 203,
+    "img": "https://tiera-repro.com/wp-content/uploads/Products/Uniforms/Belts/FIN-M30-LEATHER-BELT-001/fin-m30-leather-belt-001-001-200x200.png",
+    "name": "Leather Belt",
+    "price": 100
+  },
+  {
+    "id": 301,
+    "img": "https://cdn.igp.com/f_auto,q_auto,t_pnopt4prodlp/products/p-personalized-brown-teddy-for-boys-132622-m.jpg",
+    "name": "Brown teddy",
+    "price": 80
+  },
+  {
+    "id": 302,
+    "img": "https://www.grabadeal.in/image/cache/catalog/New%20Teddies%2024%20June/6%20feet%20pink%20teddy%20bear%20with%20i%20love%20you%20heart-200x200.jpg",
+    "name": "Pink teddy",
+    "price": 70
+  },
+  {
+    "id": 303,
+    "img": "https://pngimg.com/uploads/teddy_bear/small/teddy_bear_PNG66.png",
+    "name": "Blue teddy",
+    "price": 70
+  },
+  {
+    "id": 401,
+    "img": "https://cdn.shopify.com/s/files/1/0451/9860/6497/products/8435446411967_1_200x_crop_center.jpg?v=1617174112",
+    "name": "Eyeliner",
+    "price": 50
+  },
+  {
+    "id": 501,
+    "img": "https://www.kablewala.com.bd/images/thumbnails/200/200/detailed/176/88_xgl9-oc.jpg",
+    "name": "Formal Shoe",
+    "price": 200
+  },
+  {
+    "id": 502,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6s2bWdP8wBfQPqgXyN1_MIWin5Dx-IImkNA&usqp=CAU",
+    "name": "Tri Shoe",
+    "price": 100
+  },
+  {
+    "id": 503,
+    "img": "https://s.alicdn.com/@sc04/kf/H95f6be9c207b4107a5eabde2654de3b8K.jpg_200x200.jpg",
+    "name": "Hill Shoe",
+    "price": 100
+  }
+]

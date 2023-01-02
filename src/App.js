@@ -1,10 +1,16 @@
+import { Route, Routes } from "react-router-dom";
 import "./App.css";
-import { Button } from "@mui/material";
+import Home from "./pages/Home";
+import Items from "./pages/Items";
 
 function App() {
   return (
     <div className="App">
-      <Button variant="contained">Text</Button>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/home" element={<Home />} />
+        <Route path="/items" element={<Items />} />
+      </Routes>
     </div>
   );
 }

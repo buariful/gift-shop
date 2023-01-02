@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1001,
+    "img": "https://static.vecteezy.com/system/resources/thumbnails/004/142/302/small/seamless-pattern-with-festive-christmas-gift-trees-in-snow-stars-and-snowflakes-on-white-background-bright-print-for-new-year-and-winter-holidays-for-wrapping-paper-textile-and-design-vector.jpg",
+    "name": "Christmas gift trees",
+    "price": 10
+  },
+  {
+    "id": 2001,
+    "img": "https://static.vecteezy.com/system/resources/thumbnails/004/377/162/small/seamless-pattern-with-donuts-and-word-love-holiday-decoration-valentine-day-print-wedding-gift-wrapping-paper-textiles-and-holiday-designs-vector.jpg",
+    "name": "Love donuts",
+    "price": 20
+  },
+  {
+    "id": 3001,
+    "img": "https://img.freepik.com/premium-photo/ceramic-tile-abstract-dark-red-pattern-elegant-gift-wrapping-paper-template_743855-826.jpg?auto=format&h=200",
+    "name": "Ceramic-tile pattern",
+    "price": 30
+  },
+  {
+    "id": 4001,
+    "img": "https://img.freepik.com/premium-vector/seamless-christmas-pattern-created-golden-gradient-christmas-repeat-pattern-gift-cover-packaging-wrapping-paper-fabric_114386-1135.jpg?auto=format&h=200",
+    "name": "Seamless-christmas",
+    "price": 40
+  },
+  {
+    "id": 5001,
+    "img": "https://img.freepik.com/free-vector/cute-bows-pattern_1191-671.jpg?auto=format&h=200",
+    "name": "Cute-bows",
+    "price": 10
+  },
+  {
+    "id": 6001,
+    "img": "https://img.freepik.com/free-vector/flat-design-valentines-day-pattern-collection_23-2148393408.jpg?auto=format&h=200",
+    "price": 60
+  }
+]
