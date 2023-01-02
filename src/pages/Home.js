@@ -11,7 +11,7 @@ const Home = () => {
         <img src={banner} alt="" />
         <div className="h-14 -mt-8 flex justify-center">
           <Link
-            to="/items"
+            to="/gifts"
             className="bg-gradient-to-r from-[#b10f10] to-[#8d0404] hover:from-[#201a1a] hover:to-[#201a1a] text-white font-semibold px-4 py-4 rounded-sm border-4 border-white text-xm md:text-xl"
           >
             Create your own gift Box
@@ -55,7 +55,7 @@ const Home = () => {
 
       <div className="flex justify-center mb-8">
         <Link
-          to="/items"
+          to="/gifts"
           className="bg-gradient-to-r from-[#b10f10] to-[#8d0404] hover:from-[#201a1a] hover:to-[#201a1a] text-white font-semibold px-4 py-3 rounded-lg"
         >
           Create your own gift Box
