@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useSelector } from "react-redux";
 import CalculateRow from "../components/CalculateRow.js";
+import OrderSteps from "../components/OrderSteps.js";
 import SectionTitle from "../components/SectionTitle.js";
 
 const TotalPrice = () => {
@@ -16,7 +17,8 @@ const TotalPrice = () => {
   }, [selectedGifts, selectedWrapper.price]);
 
   return (
-    <div>
+    <div className="my-5">
+      <OrderSteps activeStep={2}></OrderSteps>
       <SectionTitle text="Calculate your total price"></SectionTitle>
 
       <div className="bg-red-100 w-10/12 md:w-2/3 lg:1/2 mx-auto my-8 shadow-lg p-8">

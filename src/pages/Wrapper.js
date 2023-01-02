@@ -1,12 +1,14 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import OrderSteps from "../components/OrderSteps";
 import SectionTitle from "../components/SectionTitle";
 import WrapperCard from "../components/WrapperCard";
 import wrapperItems from "../database/wrapper.json";
 
 const Wrapper = () => {
   return (
-    <div className="w-10/12 mx-auto">
+    <div className="w-10/12 mx-auto my-5">
+      <OrderSteps activeStep={1}></OrderSteps>
       <div className="my-6">
         <SectionTitle text="Pick your favourite wrapper and click the button below"></SectionTitle>
       </div>

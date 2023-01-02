@@ -3,10 +3,13 @@ import giftItems from "../database/gift.json";
 import SectionTitle from "../components/SectionTitle";
 import ItemCard from "../components/ItemCard";
 import { Link } from "react-router-dom";
+import OrderSteps from "../components/OrderSteps";
 
 const Items = () => {
   return (
-    <div className="w-10/12 mx-auto">
+    <div className="w-10/12 mx-auto my-5">
+      <OrderSteps activeStep={0}></OrderSteps>
+
       <div className="my-6">
         <SectionTitle text="Pick your favourite gifts and click the button below"></SectionTitle>
       </div>
